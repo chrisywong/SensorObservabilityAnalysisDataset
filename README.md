@@ -1,5 +1,5 @@
-Open source files for the paper titled **"Sensor Observability Analysis for Maximizing Task-Space Observability of Articulated Robots"** 
-* (Currently under review)
+## Open source files for the paper titled: [**"Sensor Observability Analysis for Maximizing Task-Space Observability of Articulated Robots"**](https://www.researchgate.net/profile/Christopher-Yee-Wong/research) 
+**Status:** Manuscript currently under review
 
 This repository contains simulation files for a custom 3-DOF planar robot using the structure shown below to showcase the application and utility of the proposed method *Sensor Observability Analysis*. 
 Various redundancy resolution strategies can be selected to observe the different effects of each strategy. 
@@ -9,7 +9,7 @@ The redundancy resolution strategies include:
 * maximize sensor observability index
 * maximize sensor observability in the *x*- or *y*-axis
 
-![Custom robot structure](https://raw.githubusercontent.com/chrisywong/SensorObservabilityAnalysisDataset/master/3DOFcustombot_structure.png)
+<img src="/3DOFcustombot_structure.png" width="400">
 
 # File Struture:
 * `README.md` file: This readme file
@@ -26,4 +26,4 @@ Requires Matlab with Robotics Toolbox and Image Processing Toolbox (tested with 
 * Christopher Yee WONG (christopher.wong2 [at] usherbrooke.ca)
 * Wael SULEIMAN (wael.suleiman [at] usherbrooke.ca)
 
-![UdeS logo](https://raw.githubusercontent.com/chrisywong/SensorObservabilityAnalysisDataset/master/UdeS_logo.png)
+<a href="https://www.usherbrooke.ca/"><img src="/UdeS_logo.png" width="300"></a>
