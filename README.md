@@ -1,4 +1,4 @@
-## Open source files for the paper titled: [**"Sensor Observability Analysis for Maximizing Task-Space Observability of Articulated Robots"**](https://www.researchgate.net/profile/Christopher-Yee-Wong/research) 
+## Open source files for the paper titled: [**"Sensor Observability Analysis for Maximizing Task-Space Observability of Articulated Robots"**](https://www.researchgate.net/publication/370687950_Sensor_Observability_Analysis_for_Maximizing_Task-Space_Observability_of_Articulated_Robots) 
 **Status:** Manuscript currently under review
 
 This repository contains simulation files for a custom 3-DOF planar robot using the structure shown below to showcase the application and utility of the proposed method *Sensor Observability Analysis*. 
